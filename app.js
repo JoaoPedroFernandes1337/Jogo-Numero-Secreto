@@ -59,14 +59,9 @@ function gerarNumeroAleatorio() {
     }
 }
 
-
-// 1. Selecionamos o campo de entrada (input)
 let input = document.querySelector('input');
 
-// 2. Adicionamos o "escutador" para quando uma tecla for pressionada (keydown)
 input.addEventListener('keydown', function(event) {
-    
-    // 3. Verificamos se a tecla pressionada foi o "Enter"
     if (event.key === 'Enter') {
         verificarChute();
     }
