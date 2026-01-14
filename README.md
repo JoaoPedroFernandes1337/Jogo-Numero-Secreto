@@ -38,7 +38,7 @@ O código principal está dividido em funções para facilitar a manutenção e 
 
 1. Clone este repositório:
    ```bash
-   git clone [[https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)](https://github.com/JoaoPedroFernandes1337/Jogo-Numero-Secreto.git)
+   git clone https://github.com/JoaoPedroFernandes1337/Jogo-Numero-Secreto.git
   
  2. Abra o arquivo index.html no seu navegador de preferência.
 
