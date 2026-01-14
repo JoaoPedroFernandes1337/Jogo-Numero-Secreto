@@ -38,9 +38,8 @@ O código principal está dividido em funções para facilitar a manutenção e 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-   <h1 align="center"> Jogo do Número Secreto 🔢 </h1>
-
+   git clone [[https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)](https://github.com/JoaoPedroFernandes1337/Jogo-Numero-Secreto.git)
+  
  2. Abra o arquivo index.html no seu navegador de preferência.
 
 Nota: Para que a função de voz funcione corretamente, é necessário estar conectado à internet, pois a biblioteca ResponsiveVoice carrega scripts externos.
